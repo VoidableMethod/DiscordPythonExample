@@ -6,7 +6,7 @@ from discord.ext import commands # Do not rename or remove!
 
 # Configuration
 prefix = "!" # The prefix for your bot
-token = "MTAwMjIwNTkyNjg4MDcyMzAzNA.G1dA-5.8tMHTLIH9DiogC28cJxg7RnYY2BhonMvGxV3ik" # The token of your bot
+token = "YourTokenhere" # The token of your bot
 
 bot = commands.Bot(command_prefix=prefix, intents=discord.Intents.all())
 
